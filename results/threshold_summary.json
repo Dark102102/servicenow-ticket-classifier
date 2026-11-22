@@ -1,0 +1,22 @@
+[
+  {
+    "model":"Baseline (TF-IDF + LR)",
+    "key":"baseline_tfidf_lr",
+    "threshold (chosen on val)":0.68,
+    "test: % auto-routed":70.8528451823,
+    "test: accuracy of auto-routed":95.6138594032,
+    "test: % to human review":29.1471548177,
+    "test: share of all errors caught by review":77.6530612245,
+    "test: accuracy with no threshold":86.0933730666
+  },
+  {
+    "model":"Ensemble (avg.)",
+    "key":"ensemble",
+    "threshold (chosen on val)":0.71,
+    "test: % auto-routed":70.3561799347,
+    "test: accuracy of auto-routed":95.7644211376,
+    "test: % to human review":29.6438200653,
+    "test: share of all errors caught by review":78.9156626506,
+    "test: accuracy with no threshold":85.8663260962
+  }
+]

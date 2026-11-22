@@ -1,0 +1,28 @@
+{
+  "rows": 47837,
+  "columns": [
+    "Document",
+    "Topic_group"
+  ],
+  "missing_text": 0,
+  "missing_label": 0,
+  "exact_duplicate_texts": 0,
+  "duplicates_after_whitespace_normalisation": 0,
+  "texts_with_conflicting_labels": 0,
+  "tickets_3_words_or_fewer": 49,
+  "vocabulary_size": 12327,
+  "class_counts": {
+    "Hardware": 13617,
+    "HR Support": 10915,
+    "Access": 7125,
+    "Miscellaneous": 7060,
+    "Storage": 2777,
+    "Purchase": 2464,
+    "Internal Project": 2119,
+    "Administrative rights": 1760
+  },
+  "imbalance_ratio_largest_to_smallest": 7.74,
+  "words_median": 26.0,
+  "words_p95": 136.0,
+  "words_max": 981
+}

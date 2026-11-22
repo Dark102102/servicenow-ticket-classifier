@@ -1,0 +1,13 @@
+{
+  "original_rows": 47837,
+  "conflicting_groups_removed": 13,
+  "conflicting_tickets_removed": 48,
+  "near_duplicate_copies_removed": 811,
+  "final_rows": 46978,
+  "split_sizes": {
+    "train": 32884,
+    "val": 7047,
+    "test": 7047
+  },
+  "seed": 42
+}
